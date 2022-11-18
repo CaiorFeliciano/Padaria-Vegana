@@ -1,0 +1,165 @@
+body {
+  background: #ede0d4;
+}
+
+.menu {
+  background: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: 25px;
+  width: 100%;
+  /*position: fixed;*/
+}
+
+.menu_logo_imagem {
+  height: 50px;
+  margin-top: 25px;
+}
+
+.menu_itens {
+  margin-top: 25px;
+  font-family: 'Quicksand';
+  font-weight: 400;
+  font-size: 15px;
+  color: black;
+  display: flex;
+  gap: 60px;
+
+}
+
+.menu_itens a {
+  text-decoration: none;
+  color: black;
+  gap: 35px;
+}
+
+.menu_itens a:hover {
+  transform: scale(1.1);
+  color: #656d4a;
+
+}
+
+.menu_button {
+  margin-top: 25px;
+}
+
+button {
+  padding: 10px;
+  font-family: 'Quicksand';
+  border-radius: 10px;
+  border-color: #656d4a;
+  background-color: whitesmoke;
+  border: none;
+  font-size: 15px;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: color .5s;
+  background-color: #656d4a;
+  color: #ede0d4;
+}
+
+.image_bread {
+  width: 60%;
+}
+
+.bread {
+  /*display: flex;
+  flex-direction: row;
+  align-items: center;*/
+  display: inline-block;
+  position: relative;
+  margin-bottom: 50px;
+
+
+}
+
+/*.bread_title {
+  position: absolute;
+  top:145px ;
+  background: whitesmoke;
+  padding: 75px;
+  position: relative;
+  border-radius: 50px;
+}*/
+.bread_title1 {
+  position: absolute;
+  top: 165px;
+  right: 22%;
+  font-family: 'Libre Baskerville';
+  color: #656d4a;
+  font-size: 60px;
+  letter-spacing: 3px;
+  font-weight: 800;
+}
+
+.bread_subtitle {
+  font-family: 'Quicksand';
+  font-size: 40px;
+  position: absolute;
+  top: 230px;
+  left: 50%;
+  letter-spacing: 3px;
+}
+
+.bread_title {
+  background: whitesmoke;
+}
+.story {
+  display: flex;
+  margin-bottom: 50px;
+}
+.story_image {
+  width: 60%;
+}
+.story_title {
+  color: #656d4a;
+  font-family: 'Libre Baskerville';
+  font-size: 50px;
+  text-align: right;
+  margin-right: 15px;
+  letter-spacing: 3px;
+  font-weight: 800;
+}
+.story_text {
+  color: black;
+  font-family: 'Quicksand';
+  font-size: 35px;
+  text-align: right;
+  margin-left: 185px;
+  margin-right: 15px;
+  word-spacing: 3px;
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background: whitesmoke;
+  padding: 25px;
+}
+.footer_title {
+  font-family: 'libre Baskerville';
+  color: #656d4a;
+  font-weight: 800;
+  font-size: 25px;
+  margin-bottom: 35px;
+  margin-top: 15px;
+}
+.footer_text {
+  font-family: 'Quicksand';
+  font-size: 20px;
+  margin-bottom: 45px;
+}
+.footer_icons {
+  width: 20px;
+}
+.develop {
+  text-align: center;
+  background: #656d4a;
+  font-family: 'Quicksand';
+  padding: 25px;
+  color: whitesmoke;
+  width: 100%;
+
+}
