@@ -12,12 +12,12 @@ body {
   /*position: fixed;*/
 }
 
-.menu_logo_imagem {
+.menu-logo-imagem {
   height: 50px;
   margin-top: 25px;
 }
 
-.menu_itens {
+.menu-itens {
   margin-top: 25px;
   font-family: 'Quicksand';
   font-weight: 400;
@@ -28,19 +28,19 @@ body {
 
 }
 
-.menu_itens a {
+.menu-itens a {
   text-decoration: none;
   color: black;
   gap: 35px;
 }
 
-.menu_itens a:hover {
+.menu-itens a:hover {
   transform: scale(1.1);
   color: #656d4a;
 
 }
 
-.menu_button {
+.menu-button {
   margin-top: 25px;
 }
 
@@ -61,7 +61,7 @@ button:hover {
   color: #ede0d4;
 }
 
-.image_bread {
+.image-bread {
   width: 60%;
 }
 
@@ -76,7 +76,7 @@ button:hover {
 
 }
 
-/*.bread_title {
+/*.bread-title {
   position: absolute;
   top:145px ;
   background: whitesmoke;
@@ -84,7 +84,7 @@ button:hover {
   position: relative;
   border-radius: 50px;
 }*/
-.bread_title1 {
+.bread-title1 {
   position: absolute;
   top: 165px;
   right: 22%;
@@ -95,7 +95,7 @@ button:hover {
   font-weight: 800;
 }
 
-.bread_subtitle {
+.bread-subtitle {
   font-family: 'Quicksand';
   font-size: 40px;
   position: absolute;
@@ -104,17 +104,17 @@ button:hover {
   letter-spacing: 3px;
 }
 
-.bread_title {
+.bread-title {
   background: whitesmoke;
 }
 .story {
   display: flex;
   margin-bottom: 50px;
 }
-.story_image {
+.story-image {
   width: 60%;
 }
-.story_title {
+.story-title {
   color: #656d4a;
   font-family: 'Libre Baskerville';
   font-size: 50px;
@@ -123,7 +123,7 @@ button:hover {
   letter-spacing: 3px;
   font-weight: 800;
 }
-.story_text {
+.story-text {
   color: black;
   font-family: 'Quicksand';
   font-size: 35px;
@@ -138,7 +138,7 @@ button:hover {
   background: whitesmoke;
   padding: 25px;
 }
-.footer_title {
+.footer-title {
   font-family: 'libre Baskerville';
   color: #656d4a;
   font-weight: 800;
@@ -146,12 +146,12 @@ button:hover {
   margin-bottom: 35px;
   margin-top: 15px;
 }
-.footer_text {
+.footer-text {
   font-family: 'Quicksand';
   font-size: 20px;
   margin-bottom: 45px;
 }
-.footer_icons {
+.footer-icons {
   width: 20px;
 }
 .develop {
