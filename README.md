@@ -9,5 +9,4 @@ Criação de um site para empresa fictícia chamada Padaria Vegana. Usada para c
 ## 🚀 Tecnologias
 
 - HTML e CSS
-- JavaScript
 - Git e Github
