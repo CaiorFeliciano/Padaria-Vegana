@@ -1,3 +1,13 @@
-# Padaria-Vegana
+<p align="center">
+  <img alt="Padaria Vegana" src=".github/imagem.png" width="100%">
+</p>
 
-Criação de um site para uma empresa fictícia.
+## 💻 Projeto
+
+Criação de um site para empresa fictícia chamada Padaria Vegana. Usada para colocar em prática aprendizados em HTML e CSS.
+
+## 🚀 Tecnologias
+
+- HTML e CSS
+- JavaScript
+- Git e Github
